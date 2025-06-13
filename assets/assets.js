@@ -36,6 +36,7 @@ import send_icon from './send-icon.png';
 import right_arrow_bold from './right-arrow-bold.png';
 import right_arrow_bold_dark from './right-arrow-bold-dark.png';
 
+
 export const assets = {
     user_image,
     code_icon,
@@ -81,21 +82,25 @@ export const workData = [
         title: 'E-commerce Website',
         description: 'Web Design',
         bgImage: '/work-1.png',
+        link: 'https://hackathon-omega-two.vercel.app/'
     },
     {
         title: 'Restaurant App',
         description: 'Web design',
         bgImage: '/work-2.png',
+        link: 'https://restaurent-website-one.vercel.app/'
     },
     {
         title: 'PixelProfits',
         description: 'Web Design',
         bgImage: '/work-3.png',
+        link: 'https://hackathon2-orpin-phi.vercel.app/'
     },
     {
         title: 'UI/UX designing',
         description: 'UI/UX Design',
         bgImage: '/work-4.png',
+        link: 'https://agentia-dusky.vercel.app/'
     },
 ]
 

@@ -19,7 +19,9 @@ export const Work = () => {
                     <p className='text-sm text-gray-700'>{project.description}</p>
                 </div>
                 <div className='border rounded-full border-black w-9 aspect-square flex items-center justify-center shadow-[2px_2px_0_#000] group-hover:bg-red-400 transition'>
-                    <Image src={assets.send_icon} alt='' className='w-5'/>
+                    <a href={project.link} target="_blank" rel="noopener noreferrer">
+                        <Image src={assets.send_icon} alt='' className='w-5'/>
+                    </a>
                 </div>
                 </div>
               
