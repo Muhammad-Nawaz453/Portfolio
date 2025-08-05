@@ -79,28 +79,28 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'E-commerce Website',
-        description: 'Web Design',
+        title: 'Websy Ai, Agency',
+        description: 'Website',
         bgImage: '/work-1.png',
-        link: 'https://hackathon-omega-two.vercel.app/'
+        link: 'https://websy-ai.vercel.app/'
     },
     {
-        title: 'Restaurant App',
-        description: 'Web design',
+        title: 'Layers Website',
+        description: 'Website',
         bgImage: '/work-2.png',
-        link: 'https://restaurent-website-one.vercel.app/'
+        link: 'https://modern-website-liard.vercel.app/'
     },
     {
-        title: 'PixelProfits',
+        title: 'Johnnys Web design',
         description: 'Web Design',
         bgImage: '/work-3.png',
-        link: 'https://hackathon2-orpin-phi.vercel.app/'
+        link: 'https://framer.com/projects/Johnny-s--HqY1E02pCyqYqeVor30Y-5EF6m'
     },
     {
-        title: 'UI/UX designing',
-        description: 'UI/UX Design',
+        title: 'Horizon Website',
+        description: 'Website',
         bgImage: '/work-4.png',
-        link: 'https://agentia-dusky.vercel.app/'
+        link: 'https://client-website-roan-two.vercel.app/'
     },
 ]
 
@@ -114,7 +114,7 @@ export const serviceData = [
 export const infoList = [
     { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'HTML, CSS, JavaScript React Js, Next Js, Framer Motion, Python, NodeJS, SanityCMS, C/C++, git, github' },
     { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'Intermediate in Pre-Engineering'},
-    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built more than 5 projects' }
+    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built more than 50 projects' }
 ];
 
 export const toolsData = [
